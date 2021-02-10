@@ -1,7 +1,7 @@
 # ProjetoTG
 Neste repositorio localiza-se somente modelos e diagramas desenvolvidos com coordenação
 
-:::: INSTRUÇÕES ::::
+# :::: INSTRUÇÕES ::::
 
 - [x] 08/02 - Implementação das classes de domínio do CRUD de cliente
  
@@ -40,9 +40,9 @@ Neste repositorio localiza-se somente modelos e diagramas desenvolvidos com coor
  
 - [ ] 08/03 - Login
  
-Obs: O sistema deve ser desenvolvido utilizando o padrão arquitetural MVC. Deverá ser implementado um CRUD utilizando a arquitetura apresentada em engenharia 3 (com uso dos padrões, façade, command, estrategy, view helper, DAO);
+### Obs: O sistema deve ser desenvolvido utilizando o padrão arquitetural MVC. Deverá ser implementado um CRUD utilizando a arquitetura apresentada em engenharia 3 (com uso dos padrões, façade, command, estrategy, view helper, DAO);
 
-**** View Helper e command não são necessários se estiver usando Spring boot
+### **** View Helper e command não são necessários se estiver usando Spring boot
  
-TODA entrega deverá incrementar um PPT do projeto, isso significa que toda semana o mesmo PPT deve ser entregue com o progresso do trabalho, com diagramas, requisitos, prints de telas, lista de artefatos, atualização de cronograma, etc..
+***TODA entrega*** deverá incrementar um PPT do projeto, isso significa que toda semana o mesmo PPT deve ser entregue com o progresso do trabalho, com diagramas, requisitos, prints de telas, lista de artefatos, atualização de cronograma, etc..
 
